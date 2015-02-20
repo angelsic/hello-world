@@ -2,7 +2,7 @@
     <description>
         simple example build file
     </description>
-  <!-- set global properties for this build     wwww334455ww //      -->
+  <!-- set global properties for this build     wwww33445566ww //      -->
   <property name="src" location="src"/>
   <property name="build" location="build"/>
   <property name="dist"  location="dist"/>
